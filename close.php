@@ -9,4 +9,4 @@ header('Location: '.RUTA.'login.php');
 
 
 
- ?>
+?>

@@ -31,4 +31,4 @@ function iniciarSession($table, $conexion){
 
 
 
- ?>
+?>

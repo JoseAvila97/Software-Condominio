@@ -6,4 +6,4 @@ $bd_config = array(
     'user' => 'root',
     'pass' => ''
 );
- ?>
+?>
